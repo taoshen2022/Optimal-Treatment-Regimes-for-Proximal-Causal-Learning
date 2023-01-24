@@ -1,0 +1,12 @@
+{
+  "n_repeat": 20,
+  "data": {
+    "name": "simu",
+    "use_all_X": "True"},
+  "model": {
+    "name": "pre_itr",
+    "cv_size": 250,
+    "penalty": [1e-04, 1e-03, 1e-02, 1e-01],
+    "loss_name": "causal_loss"
+  }
+}

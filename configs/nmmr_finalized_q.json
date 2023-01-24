@@ -1,0 +1,17 @@
+{
+  "n_repeat": 20,
+  "data": {
+    "name": "simu",
+    "use_all_X": "True"},
+  "model": {
+    "name": "nmmr",
+    "n_epochs": 150,
+    "batch_size": 250,
+    "log_metrics": "True",
+    "learning_rate": 0.003,
+    "l2_penalty": 1e-02,
+    "loss_name": "U_stats",
+    "network_depth": 8,
+    "network_width": 80
+  }
+}

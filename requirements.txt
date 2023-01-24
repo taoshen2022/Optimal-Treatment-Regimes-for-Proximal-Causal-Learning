@@ -1,0 +1,9 @@
+click==8.0.4
+cvxpy==1.2.3
+numba==0.55.1
+numpy==1.21.5
+pandas==1.4.4
+scikit_learn==1.2.0
+scipy==1.9.1
+torch==1.12.1
+tqdm==4.64.1
