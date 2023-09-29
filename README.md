@@ -1,8 +1,8 @@
-# Optimal-Individulized-Decison-making-with-Proxies
+# Optimal-Treatment-Regimes-for-Proximal-Causal-Learning
 
 ### Overview
 
-This repository provides codes for numerical experiments in paper 'Optimal Individulized Decison-making with Proxies'. 
+This repository provides codes for numerical experiments in paper 'Optimal Treatment Regimes for Proximal Causal Learning'. 
 
 
 ### Steps to run experiments
